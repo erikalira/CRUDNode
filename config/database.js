@@ -6,4 +6,6 @@ module.exports = {
   "storage": process.env.STORAGE || "database.sqlite",
   "host": process.env.HOST || "",
   "port": process.env.PORT || "",
+  "ssl": true,
+  "native": true
 }
