@@ -16,6 +16,7 @@
     "morgan": "~1.9.1",
     "node-pre-gyp": "^0.17.0",
     "pg": "^8.5.1",
+    "pg-hstore": "^2.3.3",
     "sequelize": "^5.21.9",
     "sqlite3": "^4.2.0"
   },
