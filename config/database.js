@@ -29,6 +29,7 @@ module.exports = {
         "require": true,
         "rejectUnauthorized": false
       }
-    }
+    },
+    "use_env_variable": "DATABASE_URL"
   }
 }
